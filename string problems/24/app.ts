@@ -1,7 +1,7 @@
 let str:string|null = "ss g s"
 let newstr:string|null = str.split("",str.length)
 
-let quan:number|NULL[] = []
+let quan:number|null[] = []
 for (let index = 0; index < newstr.length; index++) {
     quan[index] = 0
     for (let index2 = 0; index2 < newstr.length; index2++) {
