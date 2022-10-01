@@ -25,13 +25,13 @@ switch(n){
         console.log("31 days in August.");
         break;
     case 9:
-        console.log("30 days inSeptember.");
+        console.log("30 days in September.");
         break;
     case 10:
         console.log("31 days in October.");
         break;
     case 11:
-        console.log("30 days inNovember.");
+        console.log("30 days in November.");
         break;
     case 12:
         console.log("31 days in December.");
