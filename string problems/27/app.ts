@@ -12,14 +12,7 @@ for (let index = 0; index <str.length; index++) {
     }
     
 }
-// for (let index = 0; index < srr.length; index++) {
-//     const element = srr[index];
-//     if (index == ind) {
-//         srr[index] = re
-        
-//     }
-    
-// }
+
 console.log(srr.join(""));
 
 
